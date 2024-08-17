@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66bfac10ce95e4c95c22db41"
+  },
+  "nombre": "Aldo Sebastian Vargas Parreño",
+  "edad": 20,
+  "correo": "aldovargasparreno@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bfac65881bba574f993385"
+  },
+  "nombre": "Alanis Victoria",
+  "edad": 19,
+  "correo": "alanis@gmail.com",
+  "__v": 0
+}]
