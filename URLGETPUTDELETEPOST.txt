@@ -1,0 +1,5 @@
+URLs para probar
+POST http://localhost:3000/api/personas: Para crear una nueva persona.
+GET http://localhost:3000/api/personas: Para obtener todas las personas.
+PUT http://localhost:3000/api/personas/{id}: Para actualizar una persona específica.
+DELETE http://localhost:3000/api/personas/{id}: Para eliminar una persona específica.
